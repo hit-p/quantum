@@ -4,14 +4,23 @@ Peter Hitnikov
 
 [CC-BY-4.0]: http://creativecommons.org/licenses/by/4.0/ "{rel='license'}"
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)][CC-BY-4.0]
+[CC-BY-4.0_png]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
---- 
+[![Creative Commons License][CC-BY-4.0_png]][CC-BY-4.0]<br/>[CC-BY-4.0][]
+
+---
 
 # Квантовая Реальность
 # Quantum Reality
 
 ---
 
+# Квантовое Исцеление
+# Quantum Healing
+
+---
+
 # Квантовая Вечность
 # Quantum Eternity
+
+---
