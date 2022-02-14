@@ -40,6 +40,12 @@ Peter Hitnikov
 | Κύριε | Θεέ | Μου |
 | Kýrie | Theé | of Mine |
 | |
+| α_το α_του | α_το_μου α_του_μου α_το_μας | μου μας |
+| αυτο | αυτο_μια [αυτο_ματα][Atom] (μετα) αυτο_ματια | Atma [Ατομο][Atom] |
+| | один a an one | μια |
+| | много раз ; many times | ματα (μετα) |
+| | глаз око eye ; глаза взгляд eyes look | ματι ματια |
+| |
 | [The Lord][Go-Spod] | [Go-D][Bhaga] | [of Mine][Atma] |
 | The Lord | G.O.D. | of Mine |
 | |
@@ -54,7 +60,11 @@ Peter Hitnikov
 
 ---
 
-# Atomic
+# [Атомная][Atom] реальность
+**[Atomic][Atom] reality**
+
+Изначальный СМЫСЛ того, к чему Мы возвращаемся в **"Квантовой Реальности"**.  
+The PRIMARY MEANING of what We return to in the **"Quantum Reality"**.
 
 ---
 
@@ -65,3 +75,5 @@ Peter Hitnikov
 [Veda]: ./2-Veda/0.md
 
 [Go-Spod]: ./3-Go-Spod/0.md
+
+[Atom]: ./1-Atma/atom.md
