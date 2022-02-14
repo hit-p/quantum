@@ -12,7 +12,7 @@ Peter Hitnikov
 
 | [Гла-Го-Ли][Go-Spod] | [Веди][Veda] [Боги][Bhaga] | [Азъ][Atma] |
 |---|---|---|
-| Ga-Da-Ti | [Veda][Veda] Bhaga | Atma(n) |
+| [Ga-Da-Ti][Go-Spod] | [Veda][Veda] [Bhaga][Bhaga] | [Atma(n)][Atma] |
 | |
 | gati - togo, идти | gad - speak | gadati |
 | слово sloka λόγος | vad - say | vadati |

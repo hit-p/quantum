@@ -12,7 +12,7 @@ Peter Hitnikov
 
 | [Гла-Го-Ли][Go-Spod] | [Веди][Veda] [Боги][Bhaga] | [Азъ][Atma] |
 |---|---|---|
-| Ga-Da-Ti | [Veda][Veda] Bhaga | Atma(n) |
+| [Ga-Da-Ti][Go-Spod] | [Veda][Veda] [Bhaga][Bhaga] | [Atma(n)][Atma] |
 | |
 | Γάμμα | Βήτα | Άλφα |
 | Gamma | Beta | Alpha |
@@ -65,7 +65,7 @@ The PRIMARY MEANING of what We return to in the **"Quantum Reality"**.
 Наука съузила, скрыла исходный смысл Слова "Атом" до "физического" "атома".  
 Science has narrowed, hidden the original meaning of the Word "Atom" to the "physical" "atom".
 
-Наука начиналась как ответ религиозному фанатизму и фарисейству. Но утратив начальный ПРОСТОЙ фактор ПРОВЕРЯЕМОСТИ, наука сама превоатилась в религию.  
+Наука начиналась, как ответ религиозному фанатизму и фарисейству. Но утратив начальный ПРОСТОЙ фактор ПРОВЕРЯЕМОСТИ, наука сама превратилась в религию.  
 Science began as a response to religious fanaticism and hypocrisy. But having lost the initial SIMPLE factor of VERIFICATION, science itself has turned into religion.
 
 ---
