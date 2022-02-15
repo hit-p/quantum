@@ -10,22 +10,29 @@ Peter Hitnikov
 
 ---
 
-| [Гла-Го-Ли][Go-Spod] | [Веди][Veda] [Боги][Bhaga] | [Азъ][Atma] |
+| [Го-Сподь][Go-Spod] | [Богъ][Bhaga] | [Мой][Atma] |
 |---|---|---|
+| [Го-Спо-Ди][Go-Spod] | [Боже][Bhaga] | [Мой][Atma] |
+| Го-Спо-- | --[Веди][Veda] | |
+| Go-Spod | Bhava/Bhaga | of Mine |
+| |
+| [The Lord][Go-Spod] | [Go-D][Bhaga] | [of Mine][Atma] |
+| The Lord | G.O.D. | of Mine |
+| |
+| Yahweh | Elohim | Adon(ay) Adam |
+| |
+| [Гла-Го-Ли][Go-Spod] | [Веди][Veda] [Боги][Bhaga] | [Азъ][Atma] |
 | [Ga-Da-Ti][Go-Spod] | [Veda][Veda] [Bhaga][Bhaga] | [Atma(n)][Atma] |
 | |
 | Γάμμα | Βήτα | Άλφα |
 | Gamma | Beta | Alpha |
 | 3 | 2 | 1 |
 | Gimel | Vet Bet | Alef |
-| yahweh | elohim | adon(ay) adam |
+| |
 | 4 Добро | Δέλτα Delta | Dalet |
 | Дело Do | De Do | Да Da |
 | |
-| Го-Спо-- | --[Веди][Veda] | |
-| Го-Спо-Ди | Боже | Мой |
-| Го-Сподь | Богъ | Мой |
-| Go-Spod | Bhaga / Bhava | of Mine |
+| [Dominus][Go-Spod] | [Deus][Bhaga] | [Ego][Atma], Egomet, Memet ; Meus - of Mine |
 | |
 | kirkа circle | ц(е,и)рк круг | cakra church |
 | [Κύριος][Go-Spod] | [ο Θεός][Bhaga] | [Μου][Atma] |
@@ -34,7 +41,7 @@ Peter Hitnikov
 | Kýrie | Theé | of Mine |
 | |
 | α_το α_του | α_το_μου α_του_μου α_το_μας | μου μας |
-| αυτο | αυτο_μια [αυτο_ματα][Atom] (μετα) αυτο_ματια | Atma [Ατομο][Atom] |
+| αυτο | αυτο_μια [αυτο_ματα][atom] (μετα) αυτο_ματια | Atma [Ατομο][atom] |
 | | один a an one | μια |
 | | много раз ; many times | ματα (μετα) |
 | | глаз око eye ; глаза взгляд eyes look | ματι ματια |
@@ -78,4 +85,4 @@ Science began as a response to religious fanaticism and hypocrisy. But having lo
 
 [Go-Spod]: ../3-Go-Spod/0.md
 
-[Atom]: ../1-Atma/atom.md
+[atom]: ../1-Atma/atom.md
