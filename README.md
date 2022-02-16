@@ -76,6 +76,6 @@ The PRIMARY MEANING of what We return to in the **"Quantum Reality"**.
 
 [Go-Spod]: ./3-Go-Spod/0.md
 
-[spoed]: ../3-Go-Spod/spoed.md
+[spoed]: ./3-Go-Spod/spoed.md
 
 [atom]: ./1-Atma/atom.md
