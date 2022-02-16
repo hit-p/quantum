@@ -85,4 +85,6 @@ Science began as a response to religious fanaticism and hypocrisy. But having lo
 
 [Go-Spod]: ../3-Go-Spod/0.md
 
+[spoed]: ../3-Go-Spod/spoed.md
+
 [atom]: ../1-Atma/atom.md

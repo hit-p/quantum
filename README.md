@@ -21,7 +21,7 @@ Peter Hitnikov
 | [The Lord][Go-Spod] | [Go-D][Bhaga] | [of Mine][Atma] |
 | The Lord | G.O.D. | of Mine |
 | |
-| spodi spoed | speed спеет | > (у)спех |
+| [spodi][spoed] [spoed][spoed] | [speed][spoed] [спеет][spoed] | > (у)[спех][spoed] |
 | cakra sacrum | sacral sacred | ^ success |
 | |
 | kirkа circle | ц(е,и)рк круг | church cakra |
@@ -75,5 +75,7 @@ The PRIMARY MEANING of what We return to in the **"Quantum Reality"**.
 [Veda]: ./2-Veda/0.md
 
 [Go-Spod]: ./3-Go-Spod/0.md
+
+[spoed]: ../3-Go-Spod/spoed.md
 
 [atom]: ./1-Atma/atom.md
